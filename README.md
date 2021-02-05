@@ -1,5 +1,5 @@
 # network-file-system
-Client/server application for accessing remote files. University project for Distributed Systems (Spring 2018).
+Client/server application for accessing remote files. University project [no.3] for Distributed Systems (Spring 2018).
 
 ## Description
 Client can access remote files on server for reading and writing. Client has a virtual cache with LRU eviction policy.  
